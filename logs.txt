@@ -1,0 +1,41 @@
+commit f7fd9bb2aca7b0fb104a2b75d5bb170c1d718921
+Author: Jamie Moreland <jamiemorelanduk@gmail.com>
+Date:   Tue May 31 17:33:14 2016 +0100
+
+    Added file saving and loading
+
+commit 97dff8ec2b6a9ebf6f95bdf68180b5583005c607
+Author: Jamie Moreland <jamiemorelanduk@gmail.com>
+Date:   Tue May 31 15:48:20 2016 +0100
+
+    Date functionality added
+
+commit 0f3acb0e1b5f2e9cebb0609f21642ea9061f2ae7
+Author: Jamie Moreland <jamiemorelanduk@gmail.com>
+Date:   Tue May 31 13:07:10 2016 +0100
+
+    Changed so list is order by priority
+
+commit 2c7c4556b430bba6e8cbed8712eb1981724df1c7
+Author: Jamie Moreland <jamiemorelanduk@gmail.com>
+Date:   Tue May 31 12:59:03 2016 +0100
+
+    Priority implemented
+
+commit 3d21dc66d621d71bf7f756dad4d809f69e956016
+Author: Jamie Moreland <jamiemorelanduk@gmail.com>
+Date:   Tue May 31 10:08:52 2016 +0100
+
+    Specified new features
+
+commit 121f7fc0021cac38eb90a28c45a2377aac18a608
+Author: Jamie Moreland <jamiemorelanduk@gmail.com>
+Date:   Tue May 31 10:02:19 2016 +0100
+
+    Added init methods and add method
+
+commit 78203cac7c73835f18b63391b5e3f9223642e376
+Author: Jamie Moreland <jamiemorelanduk@gmail.com>
+Date:   Tue May 31 09:34:44 2016 +0100
+
+    First commit
