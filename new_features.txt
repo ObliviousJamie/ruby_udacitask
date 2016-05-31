@@ -1,0 +1,3 @@
+Feature #1: Order tasks by priority
+Feature #2: Add due dates
+Feature #3: Save list to a file and load if it already exits
